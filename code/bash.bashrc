@@ -387,7 +387,7 @@ mpv /data/data/com.termux/files/home/WalkerTheme/code/scifi.mp3
 clear
 cat /data/data/com.termux/files/home/WalkerTheme/code/box.cow | lolcat
 echo ""
-figlet -f small "The Aviation Game"|lolcat
+figlet -f small "COVID - 19"|lolcat
 sleep 0.0
 echo -e "\e[96m"
 date
